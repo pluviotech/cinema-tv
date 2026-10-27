@@ -7,7 +7,7 @@ Built from the current Android app on October 27, 2026. Version 1.2.2 (5). Suppo
 ## Install
 
 1. Install **Downloader by AFTVnews** from your TV's Play Store.
-2. Enter `https://github.com/pluviotech/cinema-tv/releases/latest/download/Cinema-TV.apk`.
+2. Enter Downloader code **3935148** (or visit https://aftv.news/3935148).
 3. Allow Downloader to **install unknown apps** when prompted.
 4. Select **Install**, then **Open**.
 5. Sign in or add your provider connection. No provider credentials or content subscriptions are included.
