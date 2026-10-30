@@ -2,7 +2,9 @@
 
 [Download Cinema-TV.apk](https://github.com/pluviotech/cinema-tv/releases/latest/download/Cinema-TV.apk)
 
-Built from the current Android app on October 27, 2026. Version 1.2.2 (5). Supports Android TV and Google TV running Android 7.0 or newer on ARMv7 / ARM64.
+Version **1.2.3 (6)**, October 29, 2026. Supports Android TV and Google TV running Android 7.0 or newer on ARMv7 / ARM64.
+
+This update improves browsing and sports refreshes, reduces background syncing and repeated saves, and fixes a startup issue found during emulator testing.
 
 ## Install
 
